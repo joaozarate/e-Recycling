@@ -1,0 +1,1 @@
+/home/joaozarate/development/rocketseat/nlw/1/web/.gitignore
