@@ -4,7 +4,7 @@
 
 **e-Recycling** is an application that aims to help people find places that collect specific types of waste, encouraging people to recycle more.
 
-Has been created during Rocketseat's **Next Level Week 1** that is a working week with lots of code, challenges, networking and a single objective: to take you to the next level. Through our method, you will learn new tools, learn about new technologies and discover hacks that will boost your career. An online and completely free event that will help you take the next step in your evolution as a dev.
+This product has been created during Rocketseat's **Next Level Week 1** that is a working week with lots of code, challenges, networking and a single objective: to take you to the next level. Through our method, you will learn new tools, learn about new technologies and discover hacks that will boost your career. An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ## Getting Started
 
