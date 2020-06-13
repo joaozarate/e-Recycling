@@ -92,11 +92,27 @@ https://forums.expo.io/t/sdk-37-unrecognized-font-family/35201/11
 
 ### Web
 
-Under construction ...
+Home
+
+<img src=".github/web-home.png" />
+
+Create
+
+<img src=".github/web-create.jpeg" />
 
 ### Mobile
 
-Under construction ...
+Home
+
+<img src=".github/mobile-home.jpeg" width="400" />
+
+Map
+
+<img src=".github/mobile-map.jpeg" width="400" />
+
+Detail
+
+<img src=".github/mobile-detail.jpeg" width="400" />
 
 ## Built With
 
